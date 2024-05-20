@@ -1,0 +1,13 @@
+C:\Users\Elect\source\repos\PiPIcoW\PiPIcoW\bin\Debug\PiPIcoW.exe.config
+C:\Users\Elect\source\repos\PiPIcoW\PiPIcoW\bin\Debug\PiPIcoW.exe
+C:\Users\Elect\source\repos\PiPIcoW\PiPIcoW\bin\Debug\PiPIcoW.pdb
+C:\Users\Elect\source\repos\PiPIcoW\PiPIcoW\bin\Debug\System.IO.Ports.dll
+C:\Users\Elect\source\repos\PiPIcoW\PiPIcoW\bin\Debug\System.IO.Ports.xml
+C:\Users\Elect\source\repos\PiPIcoW\PiPIcoW\obj\Debug\PiPIcoW.csproj.AssemblyReference.cache
+C:\Users\Elect\source\repos\PiPIcoW\PiPIcoW\obj\Debug\PiPIcoW.Form1.resources
+C:\Users\Elect\source\repos\PiPIcoW\PiPIcoW\obj\Debug\PiPIcoW.Properties.Resources.resources
+C:\Users\Elect\source\repos\PiPIcoW\PiPIcoW\obj\Debug\PiPIcoW.csproj.GenerateResource.cache
+C:\Users\Elect\source\repos\PiPIcoW\PiPIcoW\obj\Debug\PiPIcoW.csproj.CoreCompileInputs.cache
+C:\Users\Elect\source\repos\PiPIcoW\PiPIcoW\obj\Debug\PiPIcoW.csproj.Up2Date
+C:\Users\Elect\source\repos\PiPIcoW\PiPIcoW\obj\Debug\PiPIcoW.exe
+C:\Users\Elect\source\repos\PiPIcoW\PiPIcoW\obj\Debug\PiPIcoW.pdb
