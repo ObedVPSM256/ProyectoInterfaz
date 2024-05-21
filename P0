@@ -8,3 +8,5 @@ void loop() {
   Serial.println("Hola Mundo Pi Pico!");
   delay(1000);
 }
+
+//EL ARCHIVO PiPicoW es la versión optima de este programa
